@@ -1,3 +1,13 @@
+further-link (5.3.5-2) bullseye; urgency=medium
+
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 12:54:57 +0000
+
 further-link (5.3.5-1) bullseye; urgency=medium
 
   * Require aiohttp >= 3.8.3
